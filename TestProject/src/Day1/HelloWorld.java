@@ -19,7 +19,7 @@ public class HelloWorld {
    System.out.println(driver.getCurrentUrl());
 
    driver.close();
-	
+	//added some comments
 	}
 
 }
